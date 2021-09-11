@@ -1,4 +1,4 @@
-# Maratona de Programação 3: Twitter
+# Maratona de Programação III Edição: Twitter
 
 Projeto desenvolvido na parte 3 da maratona de programação da Kenzie Academy Brasil.
 
