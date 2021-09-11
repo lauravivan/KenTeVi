@@ -31,9 +31,9 @@ function createTweet(tweetText) {
 
     //criando objeto do tweet
     const tweet = {
-        name: "Yoo Deok-hwa",
-        photo: "./assets/img/yoodeokhwa.jpg",
-        userName: "@goblinephew",
+        name: "Marie Claire's lost",
+        photo: "./assets/img/marieclaire.jpg",
+        userName: "@lostclaire",
         text: tweetText,
         time: seconds + "s"
     }
